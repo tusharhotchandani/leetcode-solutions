@@ -1,3 +1,9 @@
+![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?logo=leetcode)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-success)
+![GitHub repo size](https://img.shields.io/github/repo-size/tusharhotchandani/leetcode-solutions)
+![GitHub last commit](https://img.shields.io/github/last-commit/tusharhotchandani/leetcode-solutions)
+
 # 🚀 LeetCode Solutions
 
 Welcome to my LeetCode Solutions repository!
