@@ -1,10 +1,78 @@
-# leetcode-solutions
-A collection of my accepted LeetCode solutions , automatically synced from LeetCode. Documenting my DSA learning journey and problem-solving progress.
+# 🚀 LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
-<!---LeetCode Topics End-->
+Welcome to my LeetCode Solutions repository!
+
+This repository contains my accepted solutions to LeetCode problems, written primarily in **C++**. It serves as a record of my Data Structures & Algorithms (DSA) practice and my journey toward becoming a better problem solver.
+
+> **Note:** This repository is automatically updated with every new accepted submission using **LeetHub v2**.
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Tushar Hotchandani**.
+
+- 🎓 B.Tech Student (Artificial Intelligence & Data Science)
+- 💻 Passionate about DSA, Competitive Programming, and Software Development
+- 🌱 Currently preparing for coding interviews and improving problem-solving skills
+
+---
+
+## 📚 Repository Structure
+
+Each problem is organized into its own folder and contains:
+
+- ✅ Solution Source Code
+- 📄 Problem README (when available)
+
+Example:
+
+```
+0001-Two-Sum/
+├── README.md
+└── solution.cpp
+
+0020-Valid-Parentheses/
+├── README.md
+└── solution.cpp
+```
+
+---
+
+## 💻 Language Used
+
+- C++
+
+---
+
+## 🎯 Goals
+
+- Solve LeetCode problems consistently
+- Strengthen DSA fundamentals
+- Improve analytical and problem-solving skills
+- Prepare for technical interviews
+- Track my coding journey
+
+---
+
+## 📈 Progress
+
+This repository grows automatically as I solve more LeetCode problems.
+
+Current Focus:
+- Arrays
+- Strings
+- Binary Search
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+## ⭐ If you find this repository helpful
+
+Feel free to **star** this repository.
+
+Happy Coding! 🚀
