@@ -93,4 +93,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
