@@ -98,6 +98,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
