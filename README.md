@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
