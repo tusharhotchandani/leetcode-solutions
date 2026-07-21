@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0136-single-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,4 +154,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
