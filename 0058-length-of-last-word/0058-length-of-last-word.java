@@ -4,6 +4,5 @@ class Solution {
         int n = word.length -1;
         int ans = word[n].length();
         return ans;
-        
     }
 }
