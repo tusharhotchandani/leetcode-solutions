@@ -121,6 +121,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
