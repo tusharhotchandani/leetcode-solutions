@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -168,6 +169,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
