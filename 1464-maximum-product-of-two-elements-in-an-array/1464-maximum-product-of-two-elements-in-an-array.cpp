@@ -13,7 +13,6 @@ public:
                 max2 = n;
             }
         }
-        int ans = (max1 - 1)*(max2 - 1);
-        return ans;
+        return (max1 - 1)*(max2 - 1) ;
     }
 };
