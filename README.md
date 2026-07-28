@@ -145,6 +145,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
