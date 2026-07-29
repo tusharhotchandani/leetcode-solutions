@@ -47,7 +47,7 @@ Example:
 
 ## 💻 Language Used
 
-- C++
+- C++ , Java
 
 ---
 
