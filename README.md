@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -193,4 +195,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
