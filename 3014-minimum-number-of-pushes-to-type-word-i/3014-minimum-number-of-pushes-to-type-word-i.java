@@ -1,17 +1,22 @@
 class Solution {
     public int minimumPushes(String word) {
         int n = word.length();
+        int ans;
         if(n<9){
-            return n;
+            ans = n;
+            return ans;
         }
         else if(n<17){
-            return 8 + 2*(n-8) ;
+            ans = 8 + 2*(n-8) ;
+            return ans ;
         }
         else if(n<25){
-            return 24 + 3*(n-16) ;
+            ans = 24 + 3*(n-16);
+            return ans ;
         }
         else{
-            return 48 + 4*(n-24) ; 
+            ans = 48 + 4*(n-24);
+            return ans ; 
         }
     }
 }
