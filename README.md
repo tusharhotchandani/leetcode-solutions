@@ -134,6 +134,7 @@ Happy Coding! 🚀
 | [0058-length-of-last-word](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -199,4 +202,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
