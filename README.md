@@ -109,6 +109,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -118,6 +119,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -207,4 +210,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
