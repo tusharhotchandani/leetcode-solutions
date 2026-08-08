@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -178,6 +180,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
