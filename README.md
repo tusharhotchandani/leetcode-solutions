@@ -1,4 +1,5 @@
-![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?logo=leetcode)
 ![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-success)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tusharhotchandani/leetcode-solutions)
