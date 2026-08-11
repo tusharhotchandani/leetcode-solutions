@@ -12,19 +12,14 @@ class Solution {
         }
 
         // searching it
-        int answer = sum;
-        while(true){
-            boolean found = false;
-            for(int num : nums){
-                if(num == answer){
-                    found = true;
-                    break;
-                }
-            }
-            if(!found){
-                return answer;
-            }
-            answer++;
+        HashSet<Integer> set = new HashSet<>();
+        for(int num : nums){
+            set.add(num);
         }
+
+        while(set.contains(sum)){
+            sum++;
+        }
+        return sum; 
     }
 }
