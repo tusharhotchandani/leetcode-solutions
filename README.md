@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -174,6 +175,7 @@ Happy Coding! 🚀
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
