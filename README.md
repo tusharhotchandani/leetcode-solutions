@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [0058-length-of-last-word](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -167,6 +168,7 @@ Happy Coding! 🚀
 | [0724-find-pivot-index](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0877-stone-game) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -193,6 +195,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -239,6 +242,7 @@ Happy Coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
