@@ -169,6 +169,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -187,6 +188,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -207,6 +209,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -219,6 +222,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
