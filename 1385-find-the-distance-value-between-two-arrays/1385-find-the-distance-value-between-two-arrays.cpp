@@ -6,7 +6,7 @@ public:
         for(int i=0; i<arr1.size(); i++){
             bool c = true;
             for(int j=0; j<arr2.size(); j++){
-                if( abs(arr2[j]-arr1[i]) <= d){
+                if( ( (arr1[i]>arr2[j]) ? (arr1[i]-arr2[j]) : (arr2[j]-arr1[i]) )<= d){
                     c = false;
                     break;
                 }
