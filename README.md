@@ -145,6 +145,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tusharhotchandani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
